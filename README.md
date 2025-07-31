@@ -409,7 +409,7 @@ The image 'rpi-basic-image' is deprecated, please use 'core-image-base' instead
 * [Email Address](luongutnho@hotmail.com)
 * [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 ![](https://i.imgur.com/waxVImv.png)
